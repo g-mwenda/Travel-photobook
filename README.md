@@ -1,16 +1,16 @@
 # Travel-photobook
 
 ## Table of Content
-# Author
+### Author
 
-# Project Description
+### Project Description
 
-# Setup Instructions
+### Setup Instructions
 
-# Technologies used
+### Technologies used
 
 
-# Live link
+### Live link
 
 
 
