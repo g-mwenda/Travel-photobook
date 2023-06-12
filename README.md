@@ -21,7 +21,8 @@ Posted photos of a location can be deleted individually or the whole album delet
 
 ### Setup Instructions
 Backend : rake db:migrate ;to apply database migrations
-          bundle exec rake server ;to start the application's development server
+         
+         bundle exec rake server ;to start the application's development server
 
 ### Technologies used
 
