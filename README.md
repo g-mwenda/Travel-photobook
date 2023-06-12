@@ -20,6 +20,10 @@ Once logged in, a user can Post a location on the Locations tab and Edit the loc
 Posted photos of a location can be deleted individually or the whole album deleted at once as desired.
 
 ### Setup Instructions
+Front end
+
+        npm start ; to start the react front-end
+
 Backend 
 
          rake db:migrate ;to apply database migrations
