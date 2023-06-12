@@ -20,7 +20,8 @@ Once logged in, a user can Post a location on the Locations tab and Edit the loc
 Posted photos of a location can be deleted individually or the whole album deleted at once as desired.
 
 ### Setup Instructions
-Backend : rake db:migrate ;to apply database migrations
+Backend : 
+         rake db:migrate ;to apply database migrations
          
          bundle exec rake server ;to start the application's development server
 
