@@ -32,6 +32,11 @@ Backend
 
 ### Technologies used
 
+Javascript
+React
+Ruby
+Sinatra
+
 
 ### Live link
 
