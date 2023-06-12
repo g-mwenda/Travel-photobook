@@ -4,7 +4,7 @@ class CreateMiniatures < ActiveRecord::Migration[6.1]
       t.string :name
       t.string :rarity
       t.string :size
-      t.string :comment
+      t.string :comments
       t.integer :miniature_set_id
       t.string :img_url
 
